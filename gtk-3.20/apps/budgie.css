@@ -1,7 +1,7 @@
 /* Budgie and raven colors
    Author: Elbullazul (B00merang Project) */
 @define-color budgie_selected_bg_color #5294E2;
-@define-color budgie_borders #1f1f1f;
+@define-color budgie_borders #0F111A;
 @define-color panel_bg_color alpha(@budgie_fg_color,0.8);
 @define-color raven_borders rgb(15,17,22);
 @define-color budgie_fg_color rgb(255,255,255);

@@ -1,7 +1,7 @@
 /* default color scheme */
-@define-color bg_color #373737;
+@define-color bg_color #090B10;
 @define-color fg_color #f1f1f1;
-@define-color base_color #1f1f1f;
+@define-color base_color #0F111A;
 @define-color text_color #f1f1f1;
 @define-color selected_bg_color #066DC1;
 @define-color selected_bg_color2 #4a8cc1;
@@ -12,7 +12,7 @@
 @define-color unfocused_fg_color #8c8c8c;
 
 /* dark color scheme */
-@define-color dark_bg_color #373737;
+@define-color dark_bg_color #090B10;
 @define-color dark_fg_color #f1f1f1;
 
 /* colormap actually used by the theme, to be overridden in other css files */
@@ -54,7 +54,7 @@
 @define-color menubar_fg_color @dark_fg_color;
 @define-color toolbar_bg_color @dark_bg_color; /*@theme_bg_color;*/
 @define-color toolbar_fg_color @dark_fg_color; /*@theme_fg_color;*/
-@define-color menu_bg_color #1f1f1f;
+@define-color menu_bg_color #0F111A;
 @define-color menu_fg_color @fg_color;
 @define-color panel_bg_color @dark_bg_color;
 @define-color panel_fg_color @dark_fg_color;

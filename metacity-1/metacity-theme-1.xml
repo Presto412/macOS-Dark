@@ -57,14 +57,14 @@
 <draw_ops name="title">
   <gradient type="vertical" x="0" y="0" width="width" height="height">
     <color value="#474747"/>
-    <color value="#373737"/>
+    <color value="#090B10"/>
   </gradient>
 </draw_ops>
 
 <draw_ops name="title-shaded">
   <gradient type="vertical" x="0" y="0" width="width" height="height">
     <color value="#474747"/>
-    <color value="#373737"/>
+    <color value="#090B10"/>
   </gradient>
 </draw_ops>
 
@@ -76,7 +76,7 @@
 <draw_ops name="title-max">
   <gradient type="vertical" x="0" y="0" width="width" height="height">
     <color value="#474747"/>
-    <color value="#373737"/>
+    <color value="#090B10"/>
   </gradient>
 </draw_ops>
 
@@ -86,7 +86,7 @@
 </draw_ops>
 
 <draw_ops name="frame-left-focused">
-  <rectangle color="#373737" x="0" y="0" width="width" 
+  <rectangle color="#090B10" x="0" y="0" width="width" 
     height="height" filled="true"/>
 </draw_ops>
 
@@ -96,7 +96,7 @@
 </draw_ops>
 
 <draw_ops name="frame-right-focused">
-  <rectangle color="#373737" x="0" y="0" width="width" 
+  <rectangle color="#090B10" x="0" y="0" width="width" 
     height="height" filled="true"/>
 </draw_ops>
 
@@ -106,7 +106,7 @@
 </draw_ops>
 
 <draw_ops name="frame-bottom-focused">
-  <rectangle color="#373737" x="0" y="0" width="width" 
+  <rectangle color="#090B10" x="0" y="0" width="width" 
     height="height" filled="true"/>
 </draw_ops>
 

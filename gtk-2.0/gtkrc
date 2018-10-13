@@ -1,6 +1,6 @@
 # Bridge | ScionicSpectre | Elbullazul
 
-gtk-color-scheme = "base_color:#1f1f1f\nfg_color:#f1f1f1\ntooltip_fg_color:#fff\nselected_bg_color:#066DC1\nselected_fg_color:#FFFFFF\ntext_color:#f1f1f1\nbg_color:#373737\ninsensitive_bg_color:#2f2f2f\ntooltip_bg_color:#000"
+gtk-color-scheme = "base_color:#0F111A\nfg_color:#f1f1f1\ntooltip_fg_color:#fff\nselected_bg_color:#066DC1\nselected_fg_color:#FFFFFF\ntext_color:#f1f1f1\nbg_color:#090B10\ninsensitive_bg_color:#2f2f2f\ntooltip_bg_color:#000"
 
 gtk-auto-mnemonics              = 1
 gtk-primary-button-warps-slider = 1
