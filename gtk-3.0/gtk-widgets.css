@@ -286,17 +286,15 @@ GtkAssistant .sidebar {
 }
 
 .button:insensitive {
-    /*border-color: shade(@theme_bg_color, 0.85);
+    border-color: shade(@theme_bg_color, 0.85);
     background-color: shade(@theme_bg_color, 0.9);
-    background-image: none;*/
-    color: alpha(@theme_fg_color, 0.7);
+    background-image: none;
 }
 
 .button:active *:insensitive {
-    /*border-color: shade(@theme_bg_color, 0.75);
+    border-color: shade(@theme_bg_color, 0.75);
     background-color: shade(@theme_bg_color, 0.80);
-    background-image: none;*/
-    color: alpha(@theme_fg_color, 0.7);
+    background-image: none;
 }
 
 /* default button */
@@ -654,7 +652,6 @@ GtkComboBox.combobox-entry .button:insensitive {
 .list-row:selected {
     background-color: @theme_selected_bg_color;
     color: @theme_selected_fg_color;
-    /*color: @theme_fg_color;*/
 }
 
 /*********
@@ -667,6 +664,8 @@ GtkComboBox.combobox-entry .button:insensitive {
     border-radius: 0;
     box-shadow: none;
 }
+
+
 
 /*******************
  * scrolled window *
@@ -2481,17 +2480,15 @@ GtkStatusbar .button:checked,
 }
 
 .header-bar .button:insensitive {
-    /*border-color: shade(@titlebar_bg_color, 0.95);
+    border-color: shade(@titlebar_bg_color, 0.95);
     background-color: shade(@titlebar_bg_color, 0.9);
-    background-image: none;*/
-    color: alpha(@theme_fg_color, 0.7);
+    background-image: none;
 }
 
 .header-bar .button:active *:insensitive {
-    /*border-color: shade(@titlebar_bg_color, 0.9);
+    border-color: shade(@titlebar_bg_color, 0.9);
     background-color: shade(@titlebar_bg_color, 0.80);
-    background-image: none;*/
-    color: alpha(@theme_fg_color, 0.7);
+    background-image: none;
 }
 
 .header-bar GtkComboBox:backdrop,
@@ -2686,14 +2683,12 @@ GtkStatusbar .button:checked:backdrop,
 
 .primary-toolbar .button:insensitive,
 .toolbar .button:insensitive {
-    color: alpha(@theme_fg_color, 0.7);
 }
 
 .primary-toolbar .button:active *:insensitive,
 .toolbar .button:active *:insensitive {
-    /*border-color: transparent;
-    background-image: none;*/
-    color: alpha(@theme_fg_color, 0.7);
+    border-color: transparent;
+    background-image: none;
 }
 
 .primary-toolbar .entry,
